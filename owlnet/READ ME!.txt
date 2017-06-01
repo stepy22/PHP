@@ -1,0 +1,8 @@
+Ovo mislim da ce biti dovoljno, uradio sam sve navedeno u opisu zadatka, nisam se trudio da aplikacija bude bezbedna, kao ni da je napravim responsivnom,
+tako da ako pristupate sa nekog manjeg uredjaja to moze delovati poprilicno uzasno.
+
+Aplikacija je napravljena samo za potrebe assigmenta.
+Napravio sam vam account gde ste vi head admin!
+
+vlada@gmail.com
+vlada123

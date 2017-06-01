@@ -1,0 +1,203 @@
+/*** Navbar uradjivanje i overavanja bootstrapa ***/
+.marg-left{
+    margin-left:110px;
+}
+.nav-overa{
+    height:43px;
+    background: hsla(221, 44%, 41%, 1);
+    border:none;
+}
+.navbar{
+    min-height: 20px;
+    border-radius: 0px !important;
+}
+.navbar-inverse .navbar-nav>li>a i {
+    color:#213255 !important;
+}
+.navbar-inverse .navbar-nav>li>a{
+    color:#fff !important;
+}
+.navbar-nav>li>a{
+    padding-left:5px;
+}
+
+.logo-nav{
+    font-family: 'Baloo Tamma';
+    color: #fff;
+
+    font-size: 23px;
+    line-height: 59px;
+    transform: scale(1, 1.271);
+    -webkit-transform: scale(1, 1.271);
+    -moz-transform: scale(1, 1.271);
+    -o-transform: scale(1, 1.271);
+    -ms-transform: scale(1, 1.271);
+
+
+}
+.logo-nav-a{
+    padding: 15px 5px !important;
+}
+
+.searchbox{
+    width:500px !important;
+    height:25px !important;
+    margin-top:5px;
+}
+.search-but{
+    margin-top:5px;
+    height:25px !important;
+}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
+    background: hsla(221, 44%, 41%, 1);
+}
+.bgblue{
+    background-color: #E9EBEE;
+}
+#bigbody{
+    height:500px;
+    margin: 0 auto;
+    width:80%;
+}
+
+#lsidebar{
+float: left;
+
+
+
+}
+
+#lsidebar li {
+
+    margin-top: 5px;
+    height:30px;
+
+    list-style: none;
+
+}
+#lsidebar li span{
+    margin: 0 auto;
+}
+#centralbody{
+    margin-left: 6px;
+    float: left;
+
+
+}
+#poststatus{
+
+    border: solid 1px silver;
+    background: #F6F7F9;
+
+
+}
+#postact{
+    clear: both;
+    height:40px;
+}
+#postact li{
+    list-style: none;
+    float: left;
+    height:20px;
+    border-left: solid 1px black;
+
+    margin:10px auto ;
+}
+
+#postcontentareas{
+    background: white;
+}
+#poststatus textarea{
+border: none;
+    background: none;
+    resize: none;
+    border-bottom: solid 1px grey;
+    padding:0px !important;
+
+}
+
+
+#postslika img{
+    border: solid 1px grey;
+    margin: 5px;
+}
+#postavistatus{
+    width: 100%;
+    border-top: solid 1px grey;
+}
+#postavistatus .post_dugme{
+    border:none;
+    margin:10px;
+    background: hsla(221, 44%, 41%, 1);
+    border-radius: 0px;
+    color: white;
+}
+#rsidebar{
+    float: right;
+    height:100px;
+    margin-right: 6px;
+}
+.status_view{
+    background: white;
+    margin-top: 15px;
+    padding: 0;
+}
+.podautora{
+    float: left;
+    margin-top: 5px;
+}
+.dellstatus{
+
+}
+.datum_statusa{
+    color: #505050;
+    font-size: 10px;
+    margin-left: 50px;
+
+}
+.content_status{
+    margin-top:15px;
+    padding-left: 20px;
+    padding-bottom:16px;
+    height: auto !important;
+    word-wrap: break-word;
+
+}
+
+
+.ime_prezime{
+    float: left;
+    margin-left: 5px;
+    font-weight: 600;
+}
+.comlike{
+    height:30px;
+    margin: 0 auto;
+    border-top:1px solid black;
+    background: #9b9fda;
+}
+.comlike ul li, .comlike a{
+    float: left;
+    list-style: none;
+    margin-left: 5px;
+    line-height: 30px;
+    font-weight: 700;
+    cursor: pointer;
+    color: midnightblue;
+
+
+
+
+}
+
+#unesikom textarea{
+    resize: none;
+}
+#comm_view{
+    padding: 15px;
+}
+.comment{
+    background: #F6F7F9;
+
+    margin-top:5px;
+}
